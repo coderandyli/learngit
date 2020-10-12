@@ -6,3 +6,4 @@ Git is a very good version control system
 Creating a new branch is quick and simple.
 And Merge
 Test git stach 
+fixed issue-101
