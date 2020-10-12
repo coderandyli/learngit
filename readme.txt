@@ -5,3 +5,4 @@ Git tracks changes of file
 Git is a very good version control system
 Creating a new branch is quick and simple.
 And Merge
+fixed issue-101
