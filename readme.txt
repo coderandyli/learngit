@@ -3,4 +3,5 @@ Git is free software.
 Git has a mutable index called stage
 Git tracks changes of file
 Git is a very good version control system
-Creatiing a new branch is quick 
+Creatiing a new branch is quick
+Creating a new branch is quick and simple 
