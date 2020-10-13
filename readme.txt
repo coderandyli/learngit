@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 And Merge
 fixed issue-101
 Test git rebase
+Test git rebase_02
